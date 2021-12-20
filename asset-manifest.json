@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/RecommendMovie/static/js/main.a426288f.js",
+    "index.html": "/RecommendMovie/index.html",
+    "main.a426288f.js.map": "/RecommendMovie/static/js/main.a426288f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a426288f.js"
+  ]
+}
